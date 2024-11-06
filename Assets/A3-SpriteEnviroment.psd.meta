@@ -319,6 +319,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: A3-SpriteEnviroment_10
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 618
+        width: 124
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14568fc5c993ae41a34e95e1355d984
+      internalID: 1027418303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -332,6 +353,7 @@ TextureImporter:
     nameFileIdTable:
       A3-SpriteEnviroment_0: 180994963
       A3-SpriteEnviroment_1: 818484681
+      A3-SpriteEnviroment_10: 1027418303
       A3-SpriteEnviroment_2: 313017903
       A3-SpriteEnviroment_3: 1260713612
       A3-SpriteEnviroment_4: -548896737
