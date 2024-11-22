@@ -220,7 +220,7 @@ TextureImporter:
         serializedVersion: 2
         x: 107
         y: 1325
-        width: 527
+        width: 286
         height: 392
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -239,10 +239,10 @@ TextureImporter:
       name: A3-SpriteEnviroment_6
       rect:
         serializedVersion: 2
-        x: 907
-        y: 1325
-        width: 592
-        height: 258
+        x: 912
+        y: 1340
+        width: 587
+        height: 243
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -261,9 +261,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1751
-        y: 1299
-        width: 690
-        height: 303
+        y: 1306
+        width: 601
+        height: 296
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,7 +304,7 @@ TextureImporter:
         serializedVersion: 2
         x: 967
         y: 537
-        width: 312
+        width: 310
         height: 164
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -324,9 +324,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1533
-        y: 618
-        width: 124
-        height: 63
+        y: 621
+        width: 103
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -336,6 +336,27 @@ TextureImporter:
       bones: []
       spriteID: e14568fc5c993ae41a34e95e1355d984
       internalID: 1027418303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A3-SpriteEnviroment_11
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 624
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1753349b020485439585e3c15c74728
+      internalID: 600109498
       vertices: []
       indices: 
       edges: []
@@ -354,6 +375,7 @@ TextureImporter:
       A3-SpriteEnviroment_0: 180994963
       A3-SpriteEnviroment_1: 818484681
       A3-SpriteEnviroment_10: 1027418303
+      A3-SpriteEnviroment_11: 600109498
       A3-SpriteEnviroment_2: 313017903
       A3-SpriteEnviroment_3: 1260713612
       A3-SpriteEnviroment_4: -548896737
